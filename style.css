@@ -1,0 +1,23 @@
+img{
+    width: 378px;
+    height: 590px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: aqua;
+  }
+  th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+  td:nth-child(even), th:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+
+  h3{
+    color: rgb(38, 0, 253);
+  }
